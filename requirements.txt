@@ -1,0 +1,15 @@
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+python-dotenv
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+openai
+tavily-python
+cryptography
+fake-useragent
+undetected-chromedriver
+streamlit
